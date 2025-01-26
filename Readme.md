@@ -1,1 +1,1 @@
-this is a code for backend with javascript.
+this is a project setup for backend with javascript.
